@@ -1,0 +1,11 @@
+# Claude Code local tooling & machine-specific settings
+.claude/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies / build output (if added later)
+node_modules/
+dist/
